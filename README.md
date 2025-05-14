@@ -29,7 +29,7 @@ Sigue estos pasos para correr el proyecto en tu máquina local:
 3. Ejecuta el siguiente comando:
 
    ```bash
-   git clone https://github.com/cristiandavidcantillo/poligran-frontend.git
+   git clone https://github.com/TheDarkness1/proyecto-html-restaurante.git
 
 ▶️ ¿Cómo iniciar el proyecto?
 Una vez hayas clonado el repositorio, sigue estos pasos para ver la aplicación en funcionamiento:
